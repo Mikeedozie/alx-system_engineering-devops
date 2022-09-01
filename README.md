@@ -1,1 +1,2 @@
-# Dev ops\nThis is a devops project
+# Dev ops
+This is a devops project
